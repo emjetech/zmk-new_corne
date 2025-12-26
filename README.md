@@ -1,5 +1,15 @@
 Eyelash Peripherals Corne ZMK Repository
 
+[ZMK STUDIO](https://zmk.studio/)
+Ada update baru ZMK Studio remapping tanpa perlu di flash 
+
+[Full Dokumentasi ZMK](https://zmk.dev/docs)
+
+
+Tools :
+[ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
+Video fork repository :
+[Tutorial Mapping ZMK](https://youtu.be/cAi5pnkz48M)
 **This keyboard is not the same as [foostan's Corne](https://github.com/foostan/crkbd). It will not work with standard `corne` firmware.**
 
 ![Photo of Eyelash Peripherals Corne](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
